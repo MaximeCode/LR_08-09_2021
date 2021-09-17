@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "openWebTours",
+        "rawStartTime": 1631915803368,
+        "rawEndTime": 1631915803709
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1631915804755,
+        "rawEndTime": 1631915804956
+    },
+    {
+        "transactionName": "goToItinerary",
+        "rawStartTime": 1631915805992,
+        "rawEndTime": 1631915806297
+    },
+    {
+        "transactionName": "cancel",
+        "rawStartTime": 1631915807331,
+        "rawEndTime": 1631915807500
+    },
+    {
+        "transactionName": "signOff",
+        "rawStartTime": 1631915808535,
+        "rawEndTime": 1631915808735
+    },
+    {
+        "transactionName": "UC_04_CancelRandomTicket",
+        "rawStartTime": 1631915803350,
+        "rawEndTime": 1631915808750
+    }
+]

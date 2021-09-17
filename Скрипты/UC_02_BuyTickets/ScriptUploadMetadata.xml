@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC_02_BuyTickets</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC_02_BuyTickets.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC_02_BuyTickets.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
+    <FileEntry Name="combined_UC_02_BuyTickets.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="180721367440.idx" Filter="1" />
+    <FileEntry Name="18072136744_6vf.16.idx" Filter="1" />
+    <FileEntry Name="18072136744_9Sb.812.idx" Filter="1" />
+    <FileEntry Name="18072136744_A41.260.idx" Filter="1" />
+    <FileEntry Name="18072136744_dTS.220.idx" Filter="1" />
+    <FileEntry Name="18072136744_GHA.878.idx" Filter="1" />
+    <FileEntry Name="18072136744_KIf.30.idx" Filter="1" />
+    <FileEntry Name="18072136744_nXj.754.idx" Filter="1" />
+    <FileEntry Name="18072136744_ObZ.448.idx" Filter="1" />
+    <FileEntry Name="18072136744_tJb.194.idx" Filter="1" />
+    <FileEntry Name="18072136744_ukp.226.idx" Filter="1" />
+    <FileEntry Name="240517418440.idx" Filter="1" />
+    <FileEntry Name="24051741844_6pO.755.idx" Filter="1" />
+    <FileEntry Name="24051741844_bFC.221.idx" Filter="1" />
+    <FileEntry Name="24051741844_DFK.31.idx" Filter="1" />
+    <FileEntry Name="24051741844_dXR.17.idx" Filter="1" />
+    <FileEntry Name="24051741844_Iiz.449.idx" Filter="1" />
+    <FileEntry Name="24051741844_JKo.195.idx" Filter="1" />
+    <FileEntry Name="24051741844_KSw.261.idx" Filter="1" />
+    <FileEntry Name="24051741844_R7F.227.idx" Filter="1" />
+    <FileEntry Name="24051741844_RX0.813.idx" Filter="1" />
+    <FileEntry Name="24051741844_WgR.879.idx" Filter="1" />
+    <FileEntry Name="254376380440.idx" Filter="1" />
+    <FileEntry Name="25437638044_1MO.811.idx" Filter="1" />
+    <FileEntry Name="25437638044_1t4.447.idx" Filter="1" />
+    <FileEntry Name="25437638044_aIK.225.idx" Filter="1" />
+    <FileEntry Name="25437638044_AQG.219.idx" Filter="1" />
+    <FileEntry Name="25437638044_AvO.15.idx" Filter="1" />
+    <FileEntry Name="25437638044_Kh4.29.idx" Filter="1" />
+    <FileEntry Name="25437638044_rh8.753.idx" Filter="1" />
+    <FileEntry Name="25437638044_tdP.877.idx" Filter="1" />
+    <FileEntry Name="25437638044_Up3.193.idx" Filter="1" />
+    <FileEntry Name="25437638044_uPW.259.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam(1).dat" Filter="1" />
+    <FileEntry Name="NewParam(2).dat" Filter="1" />
+    <FileEntry Name="NewParam(3).dat" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="NewParam_1.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="pass2.dat" Filter="1" />
+    <FileEntry Name="pass3.dat" Filter="1" />
+    <FileEntry Name="password.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="reserveFlights_y.dat" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC_02_BuyTicket.prm.bak" Filter="1" />
+    <FileEntry Name="UC_02_BuyTickets.c.pickle" Filter="1" />
+    <FileEntry Name="UC_02_BuyTickets.ci" Filter="1" />
+    <FileEntry Name="UC_02_BuyTickets.sdf" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

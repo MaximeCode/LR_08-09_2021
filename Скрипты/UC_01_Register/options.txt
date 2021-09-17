@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Scripts\UC_01_Register
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\scripts\uc_01_register\\logfile.log
+d:\scripts\uc_01_register\\combined_UC_01_Register.c
+d:\scripts\uc_01_register\\pre_cci.c

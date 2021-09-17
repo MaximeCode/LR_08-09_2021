@@ -1,0 +1,18 @@
+GET /cgi-bin/welcome.pl?page=menus HTTP/1.1
+Host: 127.0.0.1:1080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: frame
+Referer: http://127.0.0.1:1080/cgi-bin/login.pl
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: MSO=SID&1631636955; MTUserInfo=firstName&%26%231049%3B%26%231086%3B%26%231081%3B%26%231086%3B%26%231086%3B%26%231086%3B&address2&%26%231075%3B%26%231086%3B%26%231088%3B%26%231086%3B%26%231076%3B&username&jojo55&hash&21&lastName&%26%231041%3B%26%231080%3B%26%231085%3B%26%231085%3B%26%231085%3B&address1&%26%231091%3B%26%231083%3B%26%231080%3B%26%231094%3B%26%231072%3B&creditCard&&expDate&
+

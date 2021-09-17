@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "openWebTours",
+        "rawStartTime": 1631742615787,
+        "rawEndTime": 1631742616123
+    },
+    {
+        "transactionName": "goToRegistration",
+        "rawStartTime": 1631742617161,
+        "rawEndTime": 1631742617321
+    },
+    {
+        "transactionName": "completeForm",
+        "rawStartTime": 1631742618361,
+        "rawEndTime": 1631742618489
+    },
+    {
+        "transactionName": "finish",
+        "rawStartTime": 1631742619529,
+        "rawEndTime": 1631742619735
+    },
+    {
+        "transactionName": "signOff",
+        "rawStartTime": 1631742620777,
+        "rawEndTime": 1631742620982
+    },
+    {
+        "transactionName": "UC_01_Register",
+        "rawStartTime": 1631742615772,
+        "rawEndTime": 1631742620998
+    }
+]

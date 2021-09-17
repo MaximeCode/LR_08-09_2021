@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Scripts\UC_03_CancelAllTickets
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\scripts\uc_03_cancelalltickets\\logfile.log
+d:\scripts\uc_03_cancelalltickets\\combined_UC_03_CancelAllTickets.c
+d:\scripts\uc_03_cancelalltickets\\pre_cci.c

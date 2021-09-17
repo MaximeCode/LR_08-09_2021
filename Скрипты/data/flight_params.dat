@@ -1,0 +1,6 @@
+depart,arrive,seatPref,seatType,roundtrip
+Paris,Portland,Aisle,First,on
+San Francisco,Seattle,None,Business,
+Sydney,Zurich,Window,Coach,on
+Denver,Frankfurt,None,Coach,
+London,Los Angeles,Window,Business,on

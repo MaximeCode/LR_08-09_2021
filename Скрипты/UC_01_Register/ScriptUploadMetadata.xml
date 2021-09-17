@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC_01_Register</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC_01_Register.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC_01_Register.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_UC_01_Register.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="145567630440.idx" Filter="1" />
+    <FileEntry Name="14556763044_MZP.633.idx" Filter="1" />
+    <FileEntry Name="14556763044_zlI.791.idx" Filter="1" />
+    <FileEntry Name="151112657440.idx" Filter="1" />
+    <FileEntry Name="15111265744_0dk.471.idx" Filter="1" />
+    <FileEntry Name="15111265744_6OW.77.idx" Filter="1" />
+    <FileEntry Name="15111265744_bap.913.idx" Filter="1" />
+    <FileEntry Name="15111265744_cBB.359.idx" Filter="1" />
+    <FileEntry Name="15111265744_Ctv.409.idx" Filter="1" />
+    <FileEntry Name="15111265744_cZN.763.idx" Filter="1" />
+    <FileEntry Name="15111265744_fPY.29.idx" Filter="1" />
+    <FileEntry Name="15111265744_gE1.105.idx" Filter="1" />
+    <FileEntry Name="15111265744_GkT.515.idx" Filter="1" />
+    <FileEntry Name="15111265744_gVF.405.idx" Filter="1" />
+    <FileEntry Name="15111265744_HQD.285.idx" Filter="1" />
+    <FileEntry Name="15111265744_iXq.483.idx" Filter="1" />
+    <FileEntry Name="15111265744_KEM.291.idx" Filter="1" />
+    <FileEntry Name="15111265744_nRO.215.idx" Filter="1" />
+    <FileEntry Name="15111265744_Ooo.523.idx" Filter="1" />
+    <FileEntry Name="15111265744_Pgr.447.idx" Filter="1" />
+    <FileEntry Name="15111265744_PJq.537.idx" Filter="1" />
+    <FileEntry Name="15111265744_TBS.585.idx" Filter="1" />
+    <FileEntry Name="15111265744_UAu.57.idx" Filter="1" />
+    <FileEntry Name="15111265744_w7B.865.idx" Filter="1" />
+    <FileEntry Name="15111265744_yfg.677.idx" Filter="1" />
+    <FileEntry Name="15111265744_yPY.357.idx" Filter="1" />
+    <FileEntry Name="225866414440.idx" Filter="1" />
+    <FileEntry Name="22586641444_07f.11.idx" Filter="1" />
+    <FileEntry Name="22586641444_43D.903.idx" Filter="1" />
+    <FileEntry Name="22586641444_9Ud.841.idx" Filter="1" />
+    <FileEntry Name="22586641444_aUU.633.idx" Filter="1" />
+    <FileEntry Name="22586641444_c7F.191.idx" Filter="1" />
+    <FileEntry Name="22586641444_cim.289.idx" Filter="1" />
+    <FileEntry Name="22586641444_DuF.189.idx" Filter="1" />
+    <FileEntry Name="22586641444_KPN.657.idx" Filter="1" />
+    <FileEntry Name="22586641444_LaL.925.idx" Filter="1" />
+    <FileEntry Name="22586641444_LDZ.475.idx" Filter="1" />
+    <FileEntry Name="22586641444_LLH.673.idx" Filter="1" />
+    <FileEntry Name="22586641444_lte.529.idx" Filter="1" />
+    <FileEntry Name="22586641444_oIc.17.idx" Filter="1" />
+    <FileEntry Name="22586641444_Pye.231.idx" Filter="1" />
+    <FileEntry Name="22586641444_rb6.759.idx" Filter="1" />
+    <FileEntry Name="22586641444_sBC.761.idx" Filter="1" />
+    <FileEntry Name="22586641444_tOd.539.idx" Filter="1" />
+    <FileEntry Name="22586641444_v43.299.idx" Filter="1" />
+    <FileEntry Name="22586641444_ydV.529.idx" Filter="1" />
+    <FileEntry Name="22586641444_yp8.199.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="register_y.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC_01_Register.c.pickle" Filter="1" />
+    <FileEntry Name="UC_01_Register.ci" Filter="1" />
+    <FileEntry Name="UC_01_Register.prm.bak" Filter="1" />
+    <FileEntry Name="UC_01_Register.sdf" Filter="1" />
+    <FileEntry Name="username.dat" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

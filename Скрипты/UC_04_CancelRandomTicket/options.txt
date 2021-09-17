@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Scripts\UC_04_CancelRandomTicket
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\scripts\uc_04_cancelrandomticket\\logfile.log
+d:\scripts\uc_04_cancelrandomticket\\combined_UC_04_CancelRandomTicket.c
+d:\scripts\uc_04_cancelrandomticket\\pre_cci.c
